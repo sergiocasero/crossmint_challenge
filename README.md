@@ -27,7 +27,7 @@ remote datasource (who manages the requests calls), mappers and models.
 
 ### Why phase 1 is implemented with a different approach?
 
-Just to demonstrate algorithm skills, I've decided to write the first phase with a simple algorithm with O(n*m)
+Just to demonstrate "algorithm skills", I've decided to write the first phase with a simple algorithm with O(n*m)
 complexity, where n is the row number and m the cols one
 
 ### Why the "delay" in the function?
